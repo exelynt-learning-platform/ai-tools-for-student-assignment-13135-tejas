@@ -91,8 +91,10 @@ Starting packages for freshers depend heavily on the type of employer:
 
 ## Which was clearest and why
 
-<!-- TODO: one line, e.g. "Claude was clearest because ..." -->
+ChatGPT was clearest because its month-by-month table gave me a concrete 6-month plan I can follow, while Gemini's salary table by employer type was the most useful for the salary part.
 
 ## My Notes
 
-<!-- TODO: 2-3 lines of your own judgement: which answers agreed, which numbers (e.g. salary) you would double-check, and where one tool was vague. -->
+- All three agreed on the main skills: one programming language in depth, DSA, Git, SQL, and a few projects. They differed in structure: ChatGPT gave a timeline, Gemini grouped skills by topic, and Claude gave a short numbered list.
+- The salary figures are similar for freshers (about ₹3 to 6 LPA at service companies), but they only partly match: ChatGPT said "₹8 to 15 LPA or more" for strong product-company candidates, Gemini said ₹6 to 12 LPA for mid-tier product companies and startups, and Claude said ₹6 to 12 LPA for mid-size product companies. I would not trust any of these numbers without checking recent offers on a site like Glassdoor or LinkedIn, since pay changes by year and city. ChatGPT also cited a source (Indeed), which makes its figure easier to check.
+- My copy of Gemini's answer cut off before the Tier-1 company salary, so I could not compare that figure. ChatGPT's answer was more of a plan, and Gemini's was more detailed on employer types. None of them told me where my own college's students usually get placed, so I would ask my placement cell for that.
