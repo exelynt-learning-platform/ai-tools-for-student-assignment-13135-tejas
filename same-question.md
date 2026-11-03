@@ -6,7 +6,41 @@
 
 ## ChatGPT
 
-<!-- TODO: paste the full, unedited ChatGPT answer here -->
+### Software Developer Career Guide – India
+
+As a final-year Computer Science student, becoming a software developer is a practical career goal. Here's what you should focus on.
+
+**1. What does a software developer do daily?**
+
+A software developer designs, builds, tests, and maintains software applications.
+
+Typical daily activities include:
+- Writing and debugging code.
+- Developing frontend interfaces or backend APIs.
+- Working with databases and application logic.
+- Reviewing code and collaborating with teammates.
+- Fixing bugs, attending meetings, and deploying applications.
+
+**2. Skills to build in the next 6 months**
+
+| Month | Focus |
+|-------|-------|
+| 1 | JavaScript/Java fundamentals, OOP, Git |
+| 2 | Data Structures and Algorithms (arrays, strings, linked lists, trees) |
+| 3 | React, HTML, CSS, TypeScript |
+| 4 | Node.js, REST APIs, SQL, authentication |
+| 5 | Build 2 real-world projects and deploy them |
+| 6 | Interview preparation, resume improvement, mock interviews |
+
+Important: Learn one technology stack deeply rather than switching between multiple frameworks.
+
+**3. Realistic starting salary in India**
+
+For a fresher in 2026, a practical starting salary range is approximately ₹3–6 LPA (₹25,000–₹50,000 monthly CTC equivalent). Strong candidates at product companies may receive ₹8–15 LPA or more, but these roles are highly competitive. (Source shown by ChatGPT: Indeed +2)
+
+Salary depends on your skills, interview performance, location, and company type.
+
+My advice: Focus on becoming job-ready rather than chasing a high salary immediately. Strong fundamentals, practical projects, and consistent DSA practice will improve your chances of getting a good first job.
 
 ## Claude
 
