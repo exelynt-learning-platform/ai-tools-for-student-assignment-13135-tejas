@@ -62,7 +62,32 @@ It varies a lot by company type and city. Service companies commonly start aroun
 
 ## Gemini
 
-<!-- TODO: paste the full, unedited Gemini answer here -->
+### Day-to-Day Responsibilities
+
+A software developer's day involves much more than just writing code:
+
+- **Writing & Reviewing Code:** Feature development using languages like Java, Python, or JavaScript.
+- **Debugging & Maintenance:** Identifying, tracing, and fixing software bugs or system bottlenecks.
+- **Team Collaboration:** Attending daily Agile/Scrum standups, discussing architecture, and completing peer code reviews.
+- **Testing & Deployment:** Writing unit tests and pushing code to production via automated pipelines (CI/CD).
+
+### Skills to Build in the Next 6 Months
+
+- **Core Data Structures & Algorithms (DSA):** Master array, string, tree, and graph patterns to clear technical coding rounds.
+- **One Full Tech Stack:** Pick a core language (Java, Python, or JavaScript/TypeScript) and learn a relevant framework (Node.js, Spring Boot, or React).
+- **Databases:** Build comfort with SQL (PostgreSQL/MySQL) and basic schema design.
+- **Developer Tools:** Master Git version control (branching, PRs) and basic Linux command-line operations.
+- **AI-Assisted Coding:** Practice leveraging AI coding assistants (e.g., GitHub Copilot, ChatGPT) for debugging and boilerplate setup to boost productivity.
+
+### Realistic Starting Salary Range in India
+
+Starting packages for freshers depend heavily on the type of employer:
+
+| Employer Type | Realistic Package Range (LPA) |
+|---------------|-------------------------------|
+| IT Service Companies (TCS, Infosys, Wipro, etc.) | ₹3.5 LPA – ₹5 LPA |
+| Mid-tier Product & High-Growth Startups | ₹6 LPA – ₹12 LPA |
+| Tier-1 Product Companies & Global Capability Centers (Amazon, Microsoft, Google, etc.) | *(figure missing: the pasted text ended here)* |
 
 ## Which was clearest and why
 
