@@ -10,7 +10,21 @@
 
 ## Claude
 
-<!-- TODO: paste the full, unedited Claude answer here -->
+(Answered by Claude Sonnet 5.5 via Claude Code, unedited.)
+
+**What a software developer does day to day**
+You write and review code, fix bugs, and turn requirements into working features. Typical days include a short stand-up meeting, coding or debugging, writing tests, code review with teammates, and reading documentation or logs when something breaks. Much of the job is communication: clarifying requirements and explaining your changes.
+
+**Skills to build in the next 6 months**
+1. One main language in depth (Java, Python or JavaScript) plus data structures and algorithms for interviews.
+2. Git and GitHub, used daily, with branches and pull requests.
+3. SQL and one database, plus building a small REST API with a framework (Spring Boot, Django or Node/Express).
+4. Basic testing, debugging, and reading other people's code.
+5. Two or three real projects on GitHub with clear READMEs, and basic cloud and Linux familiarity.
+6. Using AI tools well, while still being able to check and understand what they produce.
+
+**Realistic fresher salary in India**
+It varies a lot by company type and city. Service companies commonly start around 3 to 6 lakh per year, mid-size and product companies around 6 to 12 lakh, and top product companies and startups can go well above that. Treat these as rough ranges and check recent offers on sites like Glassdoor or LinkedIn.
 
 ## Gemini
 
